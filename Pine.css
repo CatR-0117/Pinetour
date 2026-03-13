@@ -398,16 +398,3 @@ footer .pinetour {
 .spot:hover {
   filter: brightness(75%);
 }
-.popular {
-  width: 91px;
-  height: 27px;
-  background-color: #6972B5;
-  border-radius: 30px;
-  text-align: center;
-  font-size: 16px;
-  color: white;
-}
-.balanced {
-  display: flex;
-  justify-content: space-between;
-}
